@@ -93,7 +93,7 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=jadhavdurgesh&show_icons=true&locale=en" alt="sudeshnb" />
     </td>
     <td>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jadhavdurgesh&" alt="sudeshnb" />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shellygupta99&" alt="shellygupta99" />
     </td>
    </tr>
  <tr>
