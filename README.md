@@ -38,11 +38,14 @@
 ![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)
-<!--![C# Badge](https://img.shields.io/badge/C%23-05122A?logo=csharp&style=flat) -->
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+<!--![C# Badge](https://img.shields.io/badge/C%23-05122A?logo=csharp&style=flat)
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 <!--![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)
-![JavaScript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript) -->
+![JavaScript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 <!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
 ![.NET Badge](https://img.shields.io/badge/.NET-05122A?logo=dotnet&style=flat)
@@ -90,7 +93,7 @@
 <table cellspacing="0" cellpadding="0" style="border:none;">
   <tr>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=jadhavdurgesh&show_icons=true&locale=en" alt="sudeshnb" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=shellygupta99&show_icons=true&locale=en" alt="shellygupta99" />
     </td>
     <td>
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shellygupta99&" alt="shellygupta99" />
@@ -98,8 +101,8 @@
    </tr>
  <tr>
     <td>
-      <a href="https://github.com/jadhavdurgesh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadhavdurgesh&theme=light&hide_langs_below=1" />
+      <a href="https://github.com/shellygupta99">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shellygupta99&theme=light&hide_langs_below=1" />
 </a>
     </td>
     
