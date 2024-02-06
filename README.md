@@ -10,11 +10,11 @@
 
 <br>
 <div align="center" class="row">
-    <img src="https://img.shields.io/github/followers/jadhavdurgesh?logo=github&label=Github%20Followers&style=non" alt="sudeshnb" />
-    <img src="https://img.shields.io/github/stars/jadhavdurgesh?logo=github&label=Github%20Stars&style=non" alt="sudeshnb" />
+    <img src="https://img.shields.io/github/followers/shellygupta99?logo=github&label=Github%20Followers&style=non" alt="shellygupta99" />
+    <img src="https://img.shields.io/github/stars/shellygupta99?logo=github&label=Github%20Stars&style=non" alt="shellygupta99" />
 <!--     <img alt="followers" src="https://img.shields.io/github/followers/sudeshnb?label=Followers&style=social"> -->
-    <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Github%20Forks&style=non&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/jadhavdurgesh" alt="sudeshnb" />
-    <img src="https://komarev.com/ghpvc/?username=jadhavdurgesh&logo=github&color=brightgreen" alt="watching_count" />
+    <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Github%20Forks&style=non&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/shellygupta99" alt="shellygupta99" />
+    <img src="https://komarev.com/ghpvc/?username=shellygupta99&logo=github&color=brightgreen" alt="watching_count" />
     <img src="https://img.shields.io/badge/-CONNECT-blue?style=non&logo=Linkedin&link=https://www.linkedin.com/in/jadhav-durgesh/" alt="jadhavdurgesh" />
 </div>
 
@@ -123,7 +123,7 @@
 </details>
 <details><summary><strong><h3>🏆 GitHub Trophies</h3></strong></summary>
  
-![](https://github-profile-trophy.vercel.app/?username=jadhavdurgesh&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=shellygupta99&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
 </details>
 
@@ -132,7 +132,7 @@
 ❤ Mobile app development in my blood ❤
 <br />
 <br />
-<img align="center" src = "https://profile-counter.glitch.me/jadhavdurgesh/count.svg" alt ="Loading...">
+<img align="center" src = "https://profile-counter.glitch.me/shellygupta99/count.svg" alt ="Loading...">
 </div>
 
 
