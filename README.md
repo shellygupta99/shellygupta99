@@ -37,14 +37,14 @@
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
 ![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)
-<!--![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)
-![C# Badge](https://img.shields.io/badge/C%23-05122A?logo=csharp&style=flat)
+![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)
+<!--![C# Badge](https://img.shields.io/badge/C%23-05122A?logo=csharp&style=flat) -->
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)
-![JavaScript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)
+<!--![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)
+![JavaScript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript) -->
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
+<!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
 ![.NET Badge](https://img.shields.io/badge/.NET-05122A?logo=dotnet&style=flat)
 ![Go Badge](https://img.shields.io/badge/Go-05122A?logo=go&style=flat) -->
 
