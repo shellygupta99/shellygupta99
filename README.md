@@ -156,9 +156,9 @@
 <br />
 
 <!-- [website]: https://sudeshnb.xyz -->
-<!--[whatsapp]: https://wa.me/7217836820-->
+[whatsapp]: https://wa.me/7217836820
 [mail]: https://mail.google.com/mail/u/0/#inbox?compose=CllgCJvkXFgPlnbqWvNTVVtpCgpgmNpntTSctVHgdqlngkMnbsSVRSRdMRzPQJvZgTNcmLRTdfg
-[twitter]: https://twitter.com/Shellygupta99](https://twitter.com/intent/follow?screen_name=Shellygupta99
+[twitter]: https://twitter.com/ShellyGupta99](https://twitter.com/intent/follow?screen_name=ShellyGupta99
 <!-- [youtube]: https://www.youtube.com/channel/UCXooUY2oL_eqGhTaZn-ExSg -->
 [linkedin]: https://linkedin.com/in/shelly-gupta99
 [github]: https://github.com/shellygupta99
@@ -169,6 +169,6 @@
 [dart]: https://dart.dev
 [vscode]: https://code.visualstudio.com
 [firebase]: https://firebase.google.com
-<!--  [java]: https://www.java.com/en -->
+ [java]: https://www.java.com/en 
 [swift]: https://developer.apple.com/swift
-<!-- [kotlin]: https://kotlinlang.org -->
+ [kotlin]: https://kotlinlang.org 
