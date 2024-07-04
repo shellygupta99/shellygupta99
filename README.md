@@ -146,7 +146,7 @@
 [<img align="left" alt="sudeshnb | Gmail" width="28px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" />][mail]
 <!--  [<img align="left" alt="sudeshnb | YouTube" width="28px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />][youtube] -->
 [<img align="left" alt="sudeshnb | LinkedIn" width="28px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />][linkedin]
-[<img align="left" alt="Durgesh_Jadhav_ | LinkedIn" src="https://img.shields.io/twitter/follow/Durgesh_Jadhav_?style=social&logo=X" />][twitter]
+[<img align="left" alt="Durgesh_Jadhav_ | LinkedIn" src="https://img.shields.io/twitter/follow/Shelly_Gupta?style=social&logo=X" />][twitter]
 [<img align="left" alt="Msudeshnb | Instagram" width="28px" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" />][instagram]
 <!--  [<img align="left" alt="sudeshnb | Facebook" width="28px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />][facebook] -->
 [<img align="left" alt="jadhavdurgesh | Medium" width="28px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />][medium]
