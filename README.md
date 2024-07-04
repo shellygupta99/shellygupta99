@@ -15,7 +15,7 @@
 <!--     <img alt="followers" src="https://img.shields.io/github/followers/sudeshnb?label=Followers&style=social"> -->
     <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Github%20Forks&style=non&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/shellygupta99" alt="shellygupta99" />
     <img src="https://komarev.com/ghpvc/?username=shellygupta99&logo=github&color=brightgreen" alt="watching_count" />
-    <img src="https://img.shields.io/badge/-CONNECT-blue?style=non&logo=Linkedin&link=https://www.linkedin.com/in/jadhav-durgesh/" alt="jadhavdurgesh" />
+    <img src="https://img.shields.io/badge/-CONNECT-blue?style=non&logo=Linkedin&link=https://www.linkedin.com/in/shelly-gupta/" alt="jadhavdurgesh" />
 </div>
 
 <br>
